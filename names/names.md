@@ -1,14 +1,13 @@
 ## Names
 | Names | 
 | ------------ | 
-| Adel         | 
+| Jack         | 
+| Aaron        | 
 | Angel        | 
-| Axel         | 
-| Charlie      | 
-| Jane         | 
-| Jules        | 
-| Morgan       | 
-| Paris        | 
-| Robin        | 
-| Simone       | 
-
+| Adam         | 
+| Vanessa      | 
+| Chris        | 
+| William      | 
+| Max          | 
+| Hunter       | 
+| Olivia       | 
