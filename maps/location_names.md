@@ -1,30 +1,24 @@
 ## Locations
 | Number | Name  | Object Category
 | ------------ | ----------- | ----------- |
-| 1 | bed (p) |
-| 2 | bedside table (p) |
-| 3 | shelf (p) | cleaning supplies |
-| 4 | trashbin |
-| 5 | dishwasher (p) |
-| 6 | potted plant |
-| 7 | kitchen table (p) | dishes |
-| 8 | chairs |
-| 9 | pantry (p) | food |
-| 10 | refrigerator (p) |
-| 11 | sink (p) |
-| 12 | cabinet (p) | drinks |
-| 13 | coatrack |
-| 14 | desk (p) | fruits |
-| 15 | armchair |
-| 16 | desk lamp |
-| 17 | waste basket |
-| 18 | tv stand (p) |
-| 19 | storage rack (p) |
-| 20 | lamp |
-| 21 | side tables (p) | snacks |
-| 22 | sofa (p) |
-| 23 | bookshelf (p) | toys |
-| 24 | entrance |
-| 25 | exit |
+| 1 | long table B (p) | food items |
+| 2 | long table A (p) | kitchen items |
+| 3 | shelf (p) | task items |
+| 4 | shelf (p) | dummy items |
+| 5 | storage Box B | bag items |
+| 6 | chair A (p) |
+| 7 | chair B (p) |
+| 8 | shelf |
+| 9 | trash Bin A |
+| 10 | trash Bin B |
+| 11 | storage Box A |
+| 12 | storage Box B |
+| 13 | tray A (p) |
+| 14 | tray B (p) |
+| 15 | pen Holder |
+| 16 | container (p) |
+| 17 | tall table |
+| 18 | entrance |
+| 19 | exit | 
 
 (p) indicated whether objects can be placed at the location
