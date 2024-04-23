@@ -23,13 +23,13 @@
 | block  |  ![](known_objects/task_items/block.jpg) |
 
 
-# Class food_items (food_item)
+# Class foods (food)
 
 | Objectname               |  Image                   |
 :-------------------------:|:-------------------------:
-| noodles  |  ![](known_objects/food_items/noodles.jpg) |
-| potato_chips  |  ![](known_objects/food_items/potato_chips.jpg) |
-| cookies  |  ![](known_objects/food_items/cookies.jpg) |
+| noodles  |  ![](known_objects/foods/noodles.jpg) |
+| potato_chips  |  ![](known_objects/foods/potato_chips.jpg) |
+| cookies  |  ![](known_objects/foods/cookies.jpg) |
 
 
 # Class kitchen_items (kitchen_item)
