@@ -9,9 +9,7 @@
 
 | Objectname               |  Image                   |
 :-------------------------:|:-------------------------:
-| bag_c  |  ![](known_objects/bag_items/bag_c.jpg) |
-| bag_a  |  ![](known_objects/bag_items/bag_a.jpg) |
-| bag_b  |  ![](known_objects/bag_items/bag_b.jpg) |
+| bag  |  ![](known_objects/bag_items/bag.jpg) |
 
 
 # Class task_items (task_item)
