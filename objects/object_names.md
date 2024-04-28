@@ -1,4 +1,4 @@
-# Class foods
+# Class foods (food)
 
 | Objectname               |  Image                   |
 :-------------------------:|:-------------------------:
@@ -8,21 +8,21 @@
 | cracker  |  ![](known_objects/foods/cracker.jpg) |
 
 
-# Class dummy_items
+# Class dummy_items (dummy_item)
 
 | Objectname               |  Image                   |
 :-------------------------:|:-------------------------:
 | coffee  |  ![](known_objects/dummy_items/coffee.jpg) |
 
 
-# Class bag_items
+# Class bag_items (bag_item)
 
 | Objectname               |  Image                   |
 :-------------------------:|:-------------------------:
 | bag  |  ![](known_objects/bag_items/bag.jpg) |
 
 
-# Class task_items
+# Class task_items (task_item)
 
 | Objectname               |  Image                   |
 :-------------------------:|:-------------------------:
@@ -32,7 +32,7 @@
 | table_clock  |  ![](known_objects/task_items/table_clock.jpg) |
 
 
-# Class kitchen_items
+# Class kitchen_items (kitchen_item)
 
 | Objectname               |  Image                   |
 :-------------------------:|:-------------------------:
