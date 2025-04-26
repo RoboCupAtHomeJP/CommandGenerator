@@ -1,6 +1,6 @@
 ## Locations
-| Number | Name         | Object Category
-| -- | ---------------- | ------------- |
+| Number | Name         | Object Category   |
+| -- | ---------------- | ----------------- |
 | 01 | left Kachaka shelf (p)   | dummy items   |
 | 02 | right Kachaka shelf (p)  | dummy items   |
 | 03 | counter          | kitchen items |
