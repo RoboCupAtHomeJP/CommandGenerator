@@ -1,6 +1,7 @@
 ## Rooms
 | Name  | 
 | ------------ |
-| living room | 
-| dining room | 
-| hallway | 
+| living room  | 
+| dining room  | 
+| bedroom      | 
+| kitchen      | 
