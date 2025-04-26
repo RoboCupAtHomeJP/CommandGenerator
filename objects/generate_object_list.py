@@ -4,8 +4,8 @@ import os
 import sys
 
 rootdir = sys.argv[1]
-os.system("find . -name '*.jpg' -execdir mogrify -resize 200x {} \;")
-os.system("find . -name '*.png' -execdir mogrify -resize 200x {} \;")
+os.system("find . -name '*.jpg' -execdir mogrify -resize 200x {} ';'")
+os.system("find . -name '*.png' -execdir mogrify -resize 200x {} ';'")
 skip_root = True
 for subdir, dirs, files in os.walk(rootdir):
     if skip_root:
