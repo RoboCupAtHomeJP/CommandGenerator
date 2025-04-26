@@ -4,7 +4,7 @@
 | Yoshimura    |
 | Angel        |
 | Basil        |
-| Cheesecake   |
+| Chikako      |
 | Andrew       |
 | Sophia       |
 | Jack         |
