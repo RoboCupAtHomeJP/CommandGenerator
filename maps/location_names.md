@@ -1,24 +1,24 @@
 ## Locations
-| Number | Name  | Object Category
-| ------------ | ----------- | ----------- |
-| 1 | long table B (p) | food items |
-| 2 | long table A (p) | kitchen items |
-| 3 | shelf (p) | task items |
-| 4 | shelf (p) | dummy items |
-| 5 | storage box B | bag items |
-| 6 | chair A (p) |
-| 7 | chair B (p) |
-| 8 | shelf |
-| 9 | trash bin A |
-| 10 | trash bin B |
-| 11 | storage box A |
-| 12 | storage box B |
-| 13 | tray A (p) |
-| 14 | tray B (p) |
-| 15 | pen holder |
-| 16 | container (p) |
-| 17 | tall table |
-| 18 | entrance |
-| 19 | exit | 
+| Number | Name         | Object Category
+| -- | ---------------- | ------------- |
+| 01 | left Kachaka shelf (p)   | dummy items   |
+| 02 | right Kachaka shelf (p)  | dummy items   |
+| 03 | counter          | kitchen items |
+| 04 | shelf (p)        | task items    |
+| 05 | low table (p)    | food items    |
+| 06 | left tray (p)    |
+| 07 | right tray (p)   |
+| 08 | pen holder       |
+| 09 | container (p)    |
+| 10 | trash bin (p)    |
+| 11 | left chair       |
+| 12 | right chair      |
+| 13 | left Kachaka station     |
+| 14 | right Kachaka station    |
+| 15 | shelf (p)        |
+| 16 | dining table (p) |
+| 17 | bed              |
+| 18 | entrance         |
+| 19 | exit             | 
 
 (p) indicated whether objects can be placed at the location
