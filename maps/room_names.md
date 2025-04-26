@@ -4,4 +4,4 @@
 | living room  | 
 | dining room  | 
 | bedroom      | 
-| kitchen      | 
+| study room   | 
