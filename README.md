@@ -1,2 +1,1 @@
-# RoboCup JapanOpen 2024
-
+# Command Generator for RCJO25 OPL
